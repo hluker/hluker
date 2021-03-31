@@ -6,4 +6,6 @@ My name is Henry Luker and this is my rather barren GitHub code stash. Someday, 
 - I'm the mind behind the [Iowa Weather Network](https://iowawx.com). Most of my time spent there these days are creating various automated web scripts. 
 - I dabble in a lot of things, primarily around computer science and meteorology. Feel free to reach out if you have questions or need to yell at the weatherman. 
 
-[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hluker&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hluker&count_private=true&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hluker&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
