@@ -8,4 +8,4 @@ My name is Henry Luker and this is my rather barren GitHub code stash. Someday, 
 
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hluker&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hluker&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hluker&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
